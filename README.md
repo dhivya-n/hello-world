@@ -1,4 +1,1 @@
-# hello-world
-My first repository
-My name is dhivya
-
+This is the first main master
